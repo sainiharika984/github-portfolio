@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Aravind, </span> a{" "}
         <span className="font-bold">full-stack developer</span> with {" "}
-        <span className="font-bold">5.5 years</span> of experience in building {" "}
+        <span className="font-bold">7 years</span> of experience in building {" "}
         <span className="italic">websites and applications</span>. My expertise
         lies in frontend technologies such as {" "}
         <span className="underline">React, Angular, Next JS {" "} </span>
