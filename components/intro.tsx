@@ -63,12 +63,12 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Aravind, </span> a{" "}
-        <span className="font-bold">full-stack developer</span> with {" "}
-        <span className="font-bold">7 years</span> of experience in building {" "}
+        <span className="font-bold">Front-end/ Full-stack Developer</span> with {" "}
+        <span className="font-bold">12 years</span> of experience in building {" "}
         <span className="italic">websites and applications</span>. My expertise
         lies in frontend technologies such as {" "}
-        <span className="underline">React, Angular, Next JS {" "} </span>
-        as well as backend development with {" "}
+        <span className="underline">React, Angular, Next JS, Node, JavaScript, TypeScript, HTMLand CSS.  {" "} </span>
+        I also handle Full-Stack Developer roles with MEAN stack (MongoDB, Express, Angular, NodeJS) or MERN stack (MongoDB, Express, React, NodeJS)  {" "}
         <span className="underline">
           Node JS
         </span>
