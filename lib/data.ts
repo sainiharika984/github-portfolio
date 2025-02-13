@@ -40,7 +40,7 @@ export const experiencesData = [
     description:
       "I worked on building the UI for the Chatbot template builder application that empowers business users to create customized chatbots tailored to their requirements/needs/use cases and preferences through various configurable elements.",
     icon: React.createElement(CgWorkAlt),
-    date: "2022 - present",
+    date: "Nov 2022 - present",
   },
   {
     title: "Senior Software Engineer",
@@ -48,7 +48,7 @@ export const experiencesData = [
     description:
       "Worked on Guided Customer Care application and personalized health management portal that connects customers to personalized health coaches for managing specific conditions based on the customer’s profile ",
     icon: React.createElement(CgWorkAlt),
-    date: "2021 - 2022",
+    date: "July 2020 – Oct 2022",
   },
   {
     title: "Software Engineer",
@@ -56,7 +56,15 @@ export const experiencesData = [
     description:
       "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions",
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2021",
+    date: "Sep 2019- June 2020",
+  },
+  {
+    title: "Software Engineer",
+    location: "Union, NJ",
+    description:
+      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions",
+    icon: React.createElement(CgWorkAlt),
+    date: "Feb 2018– Aug 2019",
   },
   {
     title: "Software Engineer",
@@ -64,7 +72,23 @@ export const experiencesData = [
     description:
       "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions.",
     icon: React.createElement(CgWorkAlt),
-    date: "2018 - 2020",
+    date: "March 2016 –Jan 2018",
+  },
+  {
+    title: "Software Engineer",
+    location: "Unisys Technologies, India",
+    description:
+      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Aug 2012 – Feb 2014",
+  },
+  {
+    title: "Software Engineer",
+    location: "Lansys Technologies, India",
+    description:
+      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions.",
+    icon: React.createElement(CgWorkAlt),
+    date: "June 2010 – July 2012",
   },
 ] as const;
 
