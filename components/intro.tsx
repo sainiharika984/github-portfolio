@@ -62,16 +62,13 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Aravind, </span> a{" "}
+        <span className="font-bold">Hello, I'm Sai Niharika, </span> a{" "}
         <span className="font-bold">Front-end/ Full-stack Developer</span> with {" "}
-        <span className="font-bold">12 years</span> of experience in building {" "}
+        <span className="font-bold">9 years</span> of experience in building {" "}
         <span className="italic">websites and applications</span>. My expertise
         lies in frontend technologies such as {" "}
         <span className="underline">React, Angular, Next JS, Node, JavaScript, TypeScript, HTMLand CSS.  {" "} </span>
-        I also handle Full-Stack Developer roles with MEAN stack (MongoDB, Express, Angular, NodeJS) or MERN stack (MongoDB, Express, React, NodeJS)  {" "}
-        <span className="underline">
-          Node JS
-        </span>
+        I also handle Full-Stack Developer roles with MEAN stack (MongoDB, Express, Angular, NodeJS) or MERN stack (MongoDB, Express, React, NodeJS) and Java(J2EE, Struts, Spring, Spring Boot) {" "}
         .
       </motion.h1>
 
@@ -97,7 +94,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="https://arvireddy99.github.io/portfolio/RESUME.pdf"
+          href="https://docs.google.com/document/d/1txX_77FMDWyyy9S32oFC3XNip3ssqBW_/edit?usp=drive_link&ouid=102359607173725206505&rtpof=true&sd=true"
           download
         >
           Download CV{" "}
@@ -106,7 +103,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/arvireddy99/"
+          href="https://www.linkedin.com/in/sai-niharika-4663921aa/"
           target="_blank"
         >
           <BsLinkedin />

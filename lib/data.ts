@@ -35,60 +35,52 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Senior Software Engineer",
-    location: "Basking Ridge, New Jersey",
+    title: "UI Software Developer",
+    location: "University of California Los Angels (UCLA), CA",
     description:
-      "I worked on building the UI for the Chatbot template builder application that empowers business users to create customized chatbots tailored to their requirements/needs/use cases and preferences through various configurable elements.",
+      "I worked on building the UI using using React js 17 with cutting edge HTML5, JavaScript and CSS3. Worked on the FACET application (Financial Aid cloud environment technology. Worked on Aws lambda functions to invoke the functions/triggers/events of Lambda API",
     icon: React.createElement(CgWorkAlt),
-    date: "Nov 2022 - present",
+    date: "Feb 2022 - Present",
   },
   {
-    title: "Senior Software Engineer",
-    location: "New York, NY",
+    title: "Front-End Developer",
+    location: "Total Bank Solutions, NJ",
     description:
-      "Worked on Guided Customer Care application and personalized health management portal that connects customers to personalized health coaches for managing specific conditions based on the customer’s profile ",
+      "Worked web application development using Angular 11 with cutting edge HTML5 and CSS3. Developed components in React Js and used React Js to build single page applications. Implemented and wrote an Okta Authentication for the application",
     icon: React.createElement(CgWorkAlt),
-    date: "July 2020 – Oct 2022",
+    date: "Nov 2020 – Dec 2021",
   },
   {
-    title: "Software Engineer",
-    location: "Pittsburgh, PA",
+    title: "UI Software Developer",
+    location: "Fidelity Investments, NJ",
     description:
-      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions",
+      "Workded on web application development using Angular 8 with cutting edge HTML5 and CSS3. Worked on Fully Paid WorkStation Application In order to maintain the borrow and lend the securities. Involved Webpack as module bundler to preprocess and minify different files such as TypeScript and SASS files",
     icon: React.createElement(CgWorkAlt),
-    date: "Sep 2019- June 2020",
+    date: "Dec 2018- Sep 2020",
   },
   {
-    title: "Software Engineer",
-    location: "Union, NJ",
+    title: "Java UI Developer",
+    location: "State Of Oregon, OR",
     description:
-      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions",
+      "Worked on web application development using Angular 4.0 with cutting edge HTML5 and CSS3. Optimized UML design using patterns like DAO. Used Hibernate 3.3.1 for the backend persistence.",
     icon: React.createElement(CgWorkAlt),
-    date: "Feb 2018– Aug 2019",
+    date: "Mar 2018 – Dec 2018",
   },
   {
-    title: "Software Engineer",
-    location: "Farmington, CT ",
+    title: "UI Developer",
+    location: "BMO Harris Bank, IL",
     description:
-      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions.",
+      "Web application development using Angular 2.0 with cutting edge HTML5 and CSS. •	Migrated the application from angular Js to Angular 2.0. Handled data from multiple streams to maintain the sequence and their dependencies by using the RXJS operators.",
     icon: React.createElement(CgWorkAlt),
-    date: "March 2016 –Jan 2018",
+    date: "Mar 2016 - Mar 2018",
   },
   {
-    title: "Software Engineer",
-    location: "Unisys Technologies, India",
+    title: "Java UI Developer",
+    location: "Process Weaver, India",
     description:
-      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions.",
+      "Implemented entire application using Core java, java Collections and Spring MVC design framework. Designed front-end using Java Servlets, JSP, HTML, CSS and JavaScript, utilizing AJAX technology. Involved in developing JSP forms.",
     icon: React.createElement(CgWorkAlt),
-    date: "Aug 2012 – Feb 2014",
-  },
-  {
-    title: "Software Engineer",
-    location: "Lansys Technologies, India",
-    description:
-      "Worked on a project focused on Small Businesses to provide them with merchant services such as End-to-End Payment Processing Solutions, including point of sale (POS) and e-commerce solutions.",
-    icon: React.createElement(CgWorkAlt),
-    date: "June 2010 – July 2012",
+    date: "Dec 2012 – Apr 2014",
   },
 ] as const;
 
@@ -139,7 +131,7 @@ export const skillsData = [
   "Oracle SQL",
   "My SQL",
   "GraphQL",
-  "Apollo",
+  "J2EE",
   "Java",
   "Spring Boot",
   "Python",
@@ -154,6 +146,6 @@ export const skillsData = [
   "SonarQube",
   "Swagger",
   "Confluence",
-  "Figma",
-  "Adobe XD",
+  "Spring",
+  "Struts",
 ] as const;
